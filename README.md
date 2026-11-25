@@ -14,7 +14,7 @@ To write a program to predict the marks scored by a student using the simple lin
 4. Predict the marks using the predict() function and display the result.
 
 ## Program:
-```
+```py
 
 import numpy as np
 from sklearn.linear_model import LinearRegression
